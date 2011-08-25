@@ -26,6 +26,8 @@ var label1 = Titanium.UI.createLabel({
 	width:'auto'
 });
 
+//test git
+
 win1.add(label1);
 
 //
